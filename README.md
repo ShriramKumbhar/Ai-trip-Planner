@@ -36,11 +36,11 @@ Compassly is designed with a focus on user satisfaction, offering a seamless and
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ShriramKumbhar/PGDAC_Project.git
+   git clone https://github.com/ShriramKumbhar/Ai-trip-Planner.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd PGDAC_Project
+   cd Project
    ```
 3. To run the project, use:
    ```bash
